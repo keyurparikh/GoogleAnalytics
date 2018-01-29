@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "google-analytics",
+    "libraryId": "b4ff6e2e-201a-4642-bde9-13cb359e80d6",
+    "environment": "spo"
+  }
+}

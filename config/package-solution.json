@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "google-analytics-client-side-solution",
+    "id": "b4ff6e2e-201a-4642-bde9-13cb359e80d6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/google-analytics.sppkg"
+  }
+}
